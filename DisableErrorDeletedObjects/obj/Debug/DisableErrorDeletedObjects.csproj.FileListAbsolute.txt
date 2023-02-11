@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\DisableErrorDeletedObjects.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\DisableErrorDeletedObjects.pdb
+C:\Users\admin\Documents\C#_Tool\DisableErrorDeletedObjects\DisableErrorDeletedObjects\obj\Debug\DisableErrorDeletedObjects.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#_Tool\DisableErrorDeletedObjects\DisableErrorDeletedObjects\obj\Debug\DisableErrorDeletedObjects.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#_Tool\DisableErrorDeletedObjects\DisableErrorDeletedObjects\obj\Debug\DisableErrorDeletedObjects.dll
+C:\Users\admin\Documents\C#_Tool\DisableErrorDeletedObjects\DisableErrorDeletedObjects\obj\Debug\DisableErrorDeletedObjects.pdb
